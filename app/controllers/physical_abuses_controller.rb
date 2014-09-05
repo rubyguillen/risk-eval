@@ -1,0 +1,2 @@
+class PhysicalAbusesController < ApplicationController
+end
